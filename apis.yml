@@ -1,0 +1,32 @@
+aid: ethplorer
+name: Ethplorer
+description: "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures"
+url: https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: Ethplorer
+    description: "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures"
+    humanURL: https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API
+    baseURL: https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API
+common:
+  - type: Website
+    url: https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
